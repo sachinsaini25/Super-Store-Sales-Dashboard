@@ -7,4 +7,4 @@ Superstore Dataset - Sample retail data with Order Date, Region, State, Category
 Top Category: Office Supplies = 0.64MTop Segment: Consumer = 48.09% of salesTop Region: West = 33.37% of salesTop Ship-Mode: Standard ClassTrend: 2020 sales and profit are higher than 20197. How to Use
 Open Super_Store_Sales.pbix in Power BI DesktopUse Region slicer to filter the dashboardHover charts for details. Click to cross-filter
 ## Screenshots / Demo 
-Example: ![Alt text](https://github.com/sachinsaini25/Madhav-Ecommerce-Sales-Dashboard-PowerBI-/blob/main/Screenshot.png)
+Example: ![Alt text](https://github.com/sachinsaini25/Super-Store-Sales-Dashboard/blob/main/Screenshot%20.png)
